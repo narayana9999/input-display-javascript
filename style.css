@@ -1,0 +1,85 @@
+* {
+    margin: 50;
+    padding: 10;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#namediv {
+    margin-top: 50px;
+}
+
+#crsdiv {
+    margin-left: 25px;
+}
+
+#athdiv {
+    margin-left: 6px;
+}
+
+#entry {
+    width: 100%;
+    font-size: 20px;
+    margin-top: 20px;
+    box-shadow: 0 2px 2px 0 rgda(0, 0, 0, 0.5);
+}
+
+#name {
+    width: 1150px;
+    font-size: 22px;
+    margin-left: 0%;
+    border-color: brown;
+    box-shadow: brown;
+}
+
+#crs {
+    width: 1148px;
+    margin-top: 22px;
+    font-size: 22px;
+    margin-left: 0px;
+    border-color: brown;
+    box-shadow: brown;
+}
+
+#ath {
+    width: 1158px;
+    margin-top: 22px;
+    font-size: 20px;
+    margin-left: 0px;
+    border-color: brown;
+    box-shadow: brown;
+}
+
+table {
+    border-collapse: collapse;
+    width: 50%;
+    margin: 50px auto;
+    background-color: lightpink;
+}
+
+table,
+th,
+td {
+    border: 2px solid black;
+    padding: 5px;
+}
+
+th {
+    font-size: 25px;
+}
+
+td {
+    font-size: 25px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.icon {
+    width: 15px;
+    padding: 10px;
+    background-color: brown;
+    color: white;
+}
